@@ -10,4 +10,20 @@
 ### 필요 기술
 React, Node.js, SpringBoot, MariaDB
 
+메인 페이
 ![image](https://github.com/geonjin/travel_korea/assets/103410593/8e4d8534-0643-4820-8df8-201e430876b1)
+
+
+카카오 로그인 사용
+![image](https://github.com/geonjin/travel_korea/assets/103410593/5ce76a00-b505-4966-acd0-2c1323eb90e2)
+
+이미지 저장
+![image](https://github.com/geonjin/travel_korea/assets/103410593/a15ad4a7-1db6-416d-949e-69189b1d887b)
+
+
+## 기대효과 및 활용
+ChatGPT를 사용한 챗봇으로 커뮤니티 사용자에게 제공하는 정보의 질을 높인다.
+사용자가 다른 커뮤니티와 블로그등 여러 사이트를 돌아다니며 찾아보지 않아도 한 사이트 내에서 다양한 정보를 얻을 수 있다.
+사용자가 정보를 찾는 시간을 절약할 수 있다.
+
+
