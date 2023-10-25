@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "cookieRegularFont";
+    src: url(./assets/fonts/CookieRunRegular.ttf);
+}
+
+@font-face {
+    font-family: "cookieBlackFont";
+    src: url(./assets/fonts/CookieRunBlack.ttf);
+}
